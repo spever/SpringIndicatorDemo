@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpringIndicatorDemo</string>
+    <string-array name="indicator_title">
+        <item> 111</item>
+        <item> 222</item>
+        <item> 333</item>
+    </string-array>
+</resources>
